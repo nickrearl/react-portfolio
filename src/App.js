@@ -1,5 +1,4 @@
 import { BrowserRouter as Router, Routes, Route, } from "react-router-dom"
-import Container from "react-bootstrap/Container"
 import './style.css';
 import Header from './components/Header'
 import AboutPage from './pages/About'
@@ -14,7 +13,7 @@ function App() {
   return (
     <div>
       <Header />
-      <Container >
+
         <Router>
           <Routes>
             <Route path="/" element={<AboutPage />} />
@@ -23,7 +22,7 @@ function App() {
             <Route path="/resume" element={<ResumePage />} />
           </Routes>
         </Router>
-      </Container>
+
     </div>
   );
 }
