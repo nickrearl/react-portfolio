@@ -12,9 +12,9 @@ import "bootstrap/dist/css/bootstrap.min.css"
 
 function App() {
   return (
-    <>
+    <div>
       <Header />
-      <Container>
+      <Container >
         <Router>
           <Routes>
             <Route path="/" element={<AboutPage />} />
@@ -24,7 +24,7 @@ function App() {
           </Routes>
         </Router>
       </Container>
-    </>
+    </div>
   );
 }
 
