@@ -3,7 +3,8 @@ import Container from "react-bootstrap/Container"
 const ResumePage = (props) => {
   return (
     <Container className="text-center">
-      <h1>This is the Resume page</h1>
+      <h1>Resume</h1>
+      <a href={require('../assets/resume/resume.pdf')} download>Click Here to download my resume</a>
     </Container>
   )
 }
