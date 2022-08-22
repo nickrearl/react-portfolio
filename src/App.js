@@ -5,6 +5,7 @@ import AboutPage from './pages/About'
 import PortfolioPage from "./pages/Portfolio";
 import ContactPage from "./pages/Contact";
 import ResumePage from "./pages/Resume";
+import Footer from "./components/Footer";
 
 import "bootstrap/dist/css/bootstrap.min.css"
 
@@ -23,6 +24,7 @@ function App() {
           </Routes>
         </Router>
 
+      <Footer />
     </div>
   );
 }
