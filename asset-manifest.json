@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.83a020d4.css",
+    "main.js": "/react-portfolio/static/js/main.5e418447.js",
+    "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/listenIn.png": "/react-portfolio/static/media/listenIn.39c6c41305085ba44148.png",
+    "static/media/casting-director.png": "/react-portfolio/static/media/casting-director.4bf47cbb1967d93a5501.png",
+    "static/media/instagram-icon.png": "/react-portfolio/static/media/instagram-icon.370ef4033c65723fc957.png",
+    "static/media/github-icon.png": "/react-portfolio/static/media/github-icon.ecf329c2c06a1f41fae4.png",
+    "static/media/headshot.jpg": "/react-portfolio/static/media/headshot.da20c425e7c090e8095f.jpg",
+    "static/media/weather-dash-board.png": "/react-portfolio/static/media/weather-dash-board.c93632eab25703e8262b.png",
+    "static/media/daily-scheduler.png": "/react-portfolio/static/media/daily-scheduler.1552b9fd6d9420b87509.png",
+    "static/media/email.png": "/react-portfolio/static/media/email.b5a066ec4a1423db18d9.png",
+    "static/media/resume.pdf": "/react-portfolio/static/media/resume.2ea383a88235958eb7c0.pdf",
+    "index.html": "/react-portfolio/index.html",
+    "main.83a020d4.css.map": "/react-portfolio/static/css/main.83a020d4.css.map",
+    "main.5e418447.js.map": "/react-portfolio/static/js/main.5e418447.js.map",
+    "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83a020d4.css",
+    "static/js/main.5e418447.js"
+  ]
+}
